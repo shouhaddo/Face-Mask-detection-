@@ -1,7 +1,7 @@
 # Face-Mask-detection-
 In the COVID-19 crisis wearing masks is absolutely necessary for public health and controlling the spread of the pandemic. What if we had a system that could monitor whether people around us are complying with these safety measures?
 
-<b>libraries needed<b><br>
+<b>libraries needed</b><br>
   <br> tensorflow
   <br> Keras
   <br> cv2
