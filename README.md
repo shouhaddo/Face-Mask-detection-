@@ -20,7 +20,15 @@ Slice Face Image
 Pass through Classifier
 Get and Display Prediction
 
-Results : 
-Accuracry : 99%
-Val_Accuracy : 98.6
+<b>Results : </b>
+Accuracry : 99%<br>
+Val_Accuracy : 98.6<br>
+loss: 0.0166<br>
+val_loss: 0.0222<br>
+
+
+<p align="center">
+  <img src="/face mask detection-@code.it29/accuracy.JPG" width="350" title="Accuracy">
+  <img src="/face mask detection-@code.it29/loss.JPG" width="350" alt="loss">
+</p>
 
